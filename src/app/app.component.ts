@@ -6,5 +6,5 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.scss']
 })
 export class AppComponent {
-  title = 'angular-cypress';
+  title = 'Angular Meetup Dresden #10: e2e-Testing mit Cypress';
 }
