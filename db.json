@@ -1,3 +1,4 @@
 {
-  "login": { "valid": true }
+  "login": { "valid": true },
+  "request": { "foo": "bar" }
 }
