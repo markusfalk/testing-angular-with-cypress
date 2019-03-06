@@ -1,10 +1,13 @@
 <form data-cy="login-form" [formGroup]="form" (submit)="login()">
 
   <label for="username">username:</label>
-  <input data-cy="username" type="text" id="username">
+  <input data-cy="username" type="text" id="username" formControlName="username">
 
   <label for="password">password:</label>
-  <input data-cy="password" type="text" id="password">
+  <input data-cy="password" type="text" id="password" formControlName="password">
+
+  <label for="remember">remember login</label>
+  <input data-cy="remember" type="checkbox" id="remember" formControlName="remember">
 
   <button type="submit">Submit</button>
 </form>
