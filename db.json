@@ -1,4 +1,8 @@
 {
-  "login": { "valid": true },
-  "request": { "foo": "bar" }
+  "login": {
+    "username": "admin"
+  },
+  "request": {
+    "foo": "bar"
+  }
 }

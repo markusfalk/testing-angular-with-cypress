@@ -10,7 +10,10 @@ export class LoginService {
 
   constructor(private http: HttpClient) { }
 
-  login(): Observable<any> {
-    return this.http.get<any>('http://localhost:3000/api/login');
+  login(username: string, password: string): Observable<any> {
+    return this.http.post<any>('http://localhost:3000/api/login', {
+      username,
+      password
+    });
   }
 }
