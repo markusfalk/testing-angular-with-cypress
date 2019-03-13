@@ -1,7 +1,5 @@
 {
-  "login": {
-    "username": "admin"
-  },
+  "login": {},
   "request": {
     "foo": "bar"
   }

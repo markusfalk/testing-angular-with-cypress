@@ -12,9 +12,9 @@ https://docs.cypress.io/guides/references/trade-offs.html#Permanent-trade-offs-1
 
 ## Topics
 
-* Fixtures
-* Custom Actions (https://docs.cypress.io/api/cypress-api/custom-commands.html#Syntax)
 * Interacting with Elements
+* Fixtures
+* Custom Actions
 * Conditional Testing
-* Best Practices (Selectors)
+* Best Practices (https://docs.cypress.io/guides/references/best-practices.html)
 * Environments (https://docs.cypress.io/guides/guides/environment-variables.html#Option-2-cypress-env-json)

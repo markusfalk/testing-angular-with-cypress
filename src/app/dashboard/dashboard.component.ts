@@ -7,6 +7,10 @@ import { Component, OnInit } from '@angular/core';
 })
 export class DashboardComponent implements OnInit {
 
+  timeOfDay = Math.round(Math.random());
+  classNames = [ 'day', 'night' ];
+  daytime: string = this.classNames[this.timeOfDay];
+
   constructor() { }
 
   ngOnInit() {

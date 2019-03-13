@@ -1,7 +1,7 @@
 describe('Login', () => {
 
   beforeEach(() => {
-    cy.login('admin');
+    cy.login();
   });
 
   it('should redirect to dashboard after login action', () => {
