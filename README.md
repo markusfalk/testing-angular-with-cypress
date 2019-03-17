@@ -40,4 +40,3 @@ Angular Meetup Dresden #10: e2e-Testing mit Cypress
 * Custom Actions
 * Conditional Testing
 * Best Practices (https://docs.cypress.io/guides/references/best-practices.html)
-* Environments (https://docs.cypress.io/guides/guides/environment-variables.html#Option-2-cypress-env-json)
