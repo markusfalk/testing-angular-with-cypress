@@ -1,0 +1,4 @@
+<section [ngClass]="daytime" data-cy="greetContainer">
+  <p *ngIf="daytime === 'day'" data-cy="day">Guten Tag</p>
+  <p *ngIf="daytime === 'night'" data-cy="night">Guten Abend</p>
+</section>
