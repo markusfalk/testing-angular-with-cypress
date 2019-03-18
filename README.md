@@ -11,9 +11,9 @@ Angular Meetup Dresden #10: e2e-Testing mit Cypress
   * Läuft direkt im Kontext der Anwendung und im Browser
   * Frameworkunabhängig all-in-one Lösung
 * Was soll getestet werden? 
- * Kritische Pfade
+  * Kritische Pfade
 * Wer soll die Tests schreiben?
- * Developer? Tester?
+  * Developer? Tester?
 
 ## Was kann Cypress?
 
@@ -22,7 +22,7 @@ Angular Meetup Dresden #10: e2e-Testing mit Cypress
 * Screenshots und Videos
 * TimeTravel
 * Real time reloads
-* Open Source und Kostenlos (+ Dashboard-Service)*
+* Open Source und Kostenlos (+ Dashboard-Service)
 
 ## Was kann Cypress nicht?
 
